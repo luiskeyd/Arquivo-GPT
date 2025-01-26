@@ -8,7 +8,7 @@ GitHub feito para guardar os códigos das listas e exercícios de LP 1
 | Estruturas de repetição | [Ainda não temos] |
 | Array | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/array] |
 | Matrizes | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/matrizes] |
-| Ponteiros | [Hidden Information] |
-| Alocação Dinâmica | [Hidden Information] |
+| Ponteiros | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/ponteiros-e-alocacao] |
+| Alocação Dinâmica | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/ponteiros-e-alocacao] |
 | Arquivos | [Hidden Information] |
 
