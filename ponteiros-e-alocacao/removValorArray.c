@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void removeOcorrencias(int *arr, int *tam, int x){
     for(int i = 0; i < *tam; i++){
         if(*(arr+i) == x){
