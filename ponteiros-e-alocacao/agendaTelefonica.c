@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void addTelefone(int *agenda, int numero, int n){
     for(int i = 0; i < n;i++){
         if(*(agenda+i) == 0){
