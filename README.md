@@ -10,5 +10,6 @@ GitHub feito para guardar os códigos das listas e exercícios de LP 1
 | Matrizes | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/matrizes] |
 | Ponteiros | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/ponteiros-e-alocacao] |
 | Alocação Dinâmica | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/ponteiros-e-alocacao] |
+| Strings | [https://github.com/luiskeyd/Arquivo-GPT/tree/main/strings] |
 | Arquivos | [Hidden Information] |
 
